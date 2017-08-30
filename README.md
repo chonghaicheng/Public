@@ -96,18 +96,18 @@
 
 这里边是一些常用的资源或代码片段，你不在是一个阅读者，更是一个项目参与者内容创造者，欢迎fork之后pull。
 
-- [QQ 群规](//github.com/chonghaichen/src/blob/master/qq.md)
+- [QQ 群规](//github.com/chonghaicheng/src/blob/master/qq.md)
 
-- [CSS 常用代码](//github.com/chonghaichen/src/blob/master/css.md)
+- [CSS 常用代码](//github.com/chonghaicheng/src/blob/master/css.md)
 
-- [JS 常用代码](//github.com/chonghaichen/src/blob/master/js.md)
+- [JS 常用代码](//github.com/chonghaicheng/src/blob/master/js.md)
 
-- [群福利书单](//github.com/chonghaichen/src/blob/master/book.md)
+- [群福利书单](//github.com/chonghaicheng/src/blob/master/book.md)
 
-- [react ](//github.com/chonghaichen/src/blob/master/react.md)
+- [react ](//github.com/chonghaicheng/src/blob/master/react.md)
 
-- [正则 常用代码 ](//github.com/chonghaichen/src/blob/master/reg.md)
+- [正则 常用代码 ](//github.com/chonghaicheng/src/blob/master/reg.md)
 
-- [vuejs](//github.com/chonghaichen/src/blob/master/vuejs.md)
+- [vuejs](//github.com/chonghaicheng/src/blob/master/vuejs.md)
 
-- [ui](//github.com/chonghaichen/src/blob/master/ui.md)
+- [ui](//github.com/chonghaicheng/src/blob/master/ui.md)
