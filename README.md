@@ -1,24 +1,3 @@
-# src
-这里边是一些常用的资源或代码片段，你不在是一个阅读者，更是一个项目参与者内容创造者，欢迎fork之后pull。
-
-- [QQ 群规](//github.com/chonghaichen/src/blob/master/qq.md)
-
-- [CSS 常用代码](//github.com/chonghaichen/src/blob/master/css.md)
-
-- [JS 常用代码](//github.com/chonghaichen/src/blob/master/js.md)
-
-- [群福利书单](//github.com/chonghaichen/src/blob/master/book.md)
-
-- [react ](//github.com/chonghaichen/src/blob/master/react.md)
-
-- [正则 常用代码 ](//github.com/chonghaichen/src/blob/master/reg.md)
-
-- [vuejs](//github.com/chonghaichen/src/blob/master/vuejs.md)
-
-- [ui](//github.com/chonghaichen/src/blob/master/ui.md)
-
-
-
 ###如何优雅地使用群规
 1. 先完整的浏览一遍此群规，了解大纲目录，知道群规有什么内容，以后方便回来查找。
 2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
@@ -79,6 +58,7 @@
     【如非技术上问题 请不要私聊女群友 女群友也可以截图证明 一旦被妹子投诉 立马踢人】
 
 
+
 ###群规（敲黑板 划重点了啊喂）
 
 1.马甲格式 地域-岗位-昵称 
@@ -107,3 +87,27 @@
 
 	群内不定期开展治水工作，届时治水力度会远远超过以上规定，闲聊都有可能送上套餐
 
+5.其他规定 
+
+	【聊天文字】字号9-15号 字体不限 颜色为黑色  禁加粗，禁加斜，禁加下划线
+
+
+# src
+
+这里边是一些常用的资源或代码片段，你不在是一个阅读者，更是一个项目参与者内容创造者，欢迎fork之后pull。
+
+- [QQ 群规](//github.com/chonghaichen/src/blob/master/qq.md)
+
+- [CSS 常用代码](//github.com/chonghaichen/src/blob/master/css.md)
+
+- [JS 常用代码](//github.com/chonghaichen/src/blob/master/js.md)
+
+- [群福利书单](//github.com/chonghaichen/src/blob/master/book.md)
+
+- [react ](//github.com/chonghaichen/src/blob/master/react.md)
+
+- [正则 常用代码 ](//github.com/chonghaichen/src/blob/master/reg.md)
+
+- [vuejs](//github.com/chonghaichen/src/blob/master/vuejs.md)
+
+- [ui](//github.com/chonghaichen/src/blob/master/ui.md)
