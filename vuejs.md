@@ -8,7 +8,7 @@
 规则会不断的修改调整，你不在是一个受益者，更是一个项目参与者内容规则的创造者，再造福别人，欢迎fork之后push。
 ----
 
-###如何优雅地使用此文档
+### 如何优雅地使用此文档
 1. 入门先从官网文档入手，粗略过一遍有个印象，力求回查时能找到对应的关键字或位置。
     - [vuejs中文官网](http://cn.vuejs.org/) 
     - [vuejs英文官网](http://vuejs.org/) 
@@ -19,7 +19,7 @@
 5. - [如何优雅地向前辈或者高手请教技术问题？](https://www.zhihu.com/question/25464141)
 以上部分观点出自此文 [如何优雅地使用 Stack Overflow](http://www.zhihu.com/question/20824615)
 
-###一. 资源教程
+### 一. 资源教程
 
 1. 综合类
     - [vuejs 英文资料](https://github.com/vuejs/awesome-vue)
@@ -47,14 +47,14 @@
 5. 视频教程
     - [小凡哥录制视频教程](https://github.com/bhnddowinf/vuejs-learn)
     
-###二. 文档
+### 二. 文档
 
 - API
     - [Vue.js - API](http://cn.vuejs.org/api/)
 - router
     - [vue-router文档](http://router.vuejs.org/zh-cn/index.html)
 
-###三. 组件
+### 三. 组件
 
 #### 1. 官方组件
 
@@ -137,7 +137,7 @@
     - [vue2.0模板](https://github.com/yelingfeng/vue-ylf-template)
     - [vue2.0全家桶实例](https://github.com/yelingfeng/vue-2.0-FamilyBucket)
      
-###四. 示例
+### 四. 示例
 
 - 综合示例
     - [官方例子 - 包括Markdown编辑器，表格组件等](http://cn-stage.vuejs.org/examples/)    
@@ -165,7 +165,7 @@
     - [基于vue.js重写Cnodejs.org社区的webapp](https://github.com/shinygang/Vue-cnodejs)
     - [北京-giscafer - vue+webpack+node.js 价格监测应用](https://github.com/giscafer/Ponitor)
 
-###五. 开发工具相关
+### 五. 开发工具相关
     
 1. Atom
     - [atom vue 代码高亮](https://github.com/CYBAI/language-vue-component)
@@ -177,7 +177,7 @@
     - [webstorm添加*.vue文件支持](http://www.lred.me/2016/01/07/webstorm%E6%B7%BB%E5%8A%A0-vue%E6%96%87%E4%BB%B6%E6%94%AF%E6%8C%81/)    
     - [webstorm vue插件](https://plugins.jetbrains.com/plugin/8057?pr=webStorm)
     
-###六. 答疑
+### 六. 答疑
 
 - [Vue.js为什么不支持templateUrl模式](http://www.jianshu.com/p/7f7f050c9edf)
 - [实现了vuejs组件之间的通讯问题](https://github.com/jrainlau/vuejs-demo)
@@ -185,7 +185,7 @@
 - [vue 支持服务器端渲染吗](https://www.zhihu.com/question/39149401)
 - [Vue.js 和 Webpack](http://div.io/topic/1343)
         
-###七. 源码学习
+### 七. 源码学习
 
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review)
 - [VUE 源码分析](http://www.cnblogs.com/sskyy/p/3695003.html)
@@ -193,7 +193,7 @@
 - [vue源码解析之一：transition](https://segmentfault.com/a/1190000004670036)
 - [Vue源码学习 Vue.js v1.0.18](https://github.com/JsAaron/vue-analysis)
 
-###八. 框架相关
+### 八. 框架相关
 
  - [尤小右 - 4-1 Vue.js-数据驱动的组件化前端开...](http://www.imooc.com/video/6346)
  - [Evan You - Diving Deep into Vue.js](https://simplecast.fm/s/5e60d9be)
