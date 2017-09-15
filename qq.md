@@ -11,21 +11,21 @@
 
 ---
 
-###如何优雅地使用群规
+### 如何优雅地使用群规
 1. 先完整的浏览一遍此群规，了解大纲目录，知道群规有什么内容，以后方便回来查找。
 2. 发出一个问题之后，不要暂时的离开电脑，如果没有把握先不要提问。
 3. 珍惜每一次提问，感恩每一次反馈，每个人工作还是业余之外抽出的时间有限，充分准备好应有的资源之后再发问，有利于问题能够高效质量地得到解决。尤其是具备解决问题能力的人，通常时间都很宝贵。
 4. 先搜索，再思考，最后再提问，很多人把这个顺序搞反了。
 以上部分观点出自此文 [如何优雅地使用 Stack Overflow](http://www.zhihu.com/question/20824615)
 
-###前言
+### 前言
 1. 宗旨：高效，高质量的交流，禁止无意义的闲扯，话题内容尽量保持在前端技术与职业相关范围内。原则上：白天上班时间禁止闲聊，业余时间话题可以稍为宽松。
 2. 随着群人数越来越多，为了使群的价值能够保持技术的高质量输送或新鲜度，也为了使新人能够快速地融入这个团队，特编写此约定，希望大伙能够积极遵守或推进，谢谢各位的支持或厚爱。
 3. 我们的目的侧重于引导，T人不是最终目的，我们最大的愿望是自此群规出台之后不要有任何一个人因为违反群规而被T出去。
 4. 此群规也是引导大于惩罚，我们是前端类相关从业人士，注重用户心理，行为感知或契约精神，阅读完之后继续留在此群着，默认遵守此约定，如果不太习惯，建议退出，以免后期管理引导中出现不必要的冲突或对别人造成伤害，互联网因为开放或自由才有今天的成就，不同意可以退出，但不要进行伤害。另外主要还是引导为辅，自觉为主，氛围还是需要大伙共同参与维护，我们鄙视每一个不尊重时间或浪费青春的人，我们希望在激情岁月里边能够留下成长的痕迹，我们希望这份共同的回忆能够N年后还能念念不忘或值得回忆。今天因为你在此群与各高手交流而感到自豪，明天此群因为曾经有你的存在而感到欣慰，后天因为我们回忆中有你的身影而感到怀念。
 5. 人的存在是为了创造价值，群的存在是为了解决问题，你的存在是为了问题快速解决。
 
-###一. 如何提问:
+### 一. 如何提问:
 1. 请提供能重现问题的url或资源demo文件包。(url：是以www开头的一级域名或二级域名，demo文件是未上线的html静态页面，带图片的请上传至群共享。提供的资源文件，必须是换个环境之后完整的能重现所说的bug，而不是只有html没有关键css,图片等一个单独文件，如果你所属团队对前端代码有特殊的保密要求，请自行找其它解决办法)。
 2. 文字描述不清的bug，在提供第1条所述资源的前提下用截图示意并圈中bug所处位置，且要说明两种状态：现状或期望的状态。
 3. 没有图片的代码建议发：
@@ -75,7 +75,7 @@
 - [如何优雅地向前辈或者高手请教技术问题？](http://www.zhihu.com/question/25464141)
 - [提问的艺术-ZZ](http://www.awflasher.com/blog/archives/200)
 
-###二. 禁问:
+### 二. 禁问:
 日常生活废话禁问，主观性的问题禁问，概念性的问题禁问。
 
 - 早上问早，晚上道晚安。聊天起于问早，止于呵呵。
@@ -91,7 +91,7 @@
 - 2. 直接说场景：我在做xx端东西的时候，在window 7平台的IE7版本下遇到了左右不对齐问题，具体如图所示img，代码地址：http://www.jsbin.com/xxxx，在百度中找到的答案，试了之后还是有同样的问题。请有空的同学帮我看看是什么问题？
 如果你的问题暂时没人理，那表示有空的同学都未涉猎，赶紧找其它办法。
 
-###三. 禁发:
+### 三. 禁发:
 
 - 禁发无意义的大图片，建议发qq提供的默认的等于行距表情，约束这个目的在于：
     1. 人脑对图片的接受速度明显快于文字，过多的无意义图片会分散讨论的主题。
@@ -103,14 +103,14 @@
 - 禁发超过文本行距的大gif。
 - 禁止找人做作业要代码，拒绝伸手党。
 
-###四. 警告:
+### 四. 警告:
 
 - 字体：微软雅黑，10，禁加粗，禁加斜，禁加下划线，字体颜色不建议特别刺眼的颜色。
 - 禁止闲聊，或无意义回复。
 - 提问之前最好百度，google过，着重培养的是一种能力或方法，不是一个结果。
 - 不建议直接索要代码，可以追问技术实现的思路或方法。
 
-###五. 资源教程:
+### 五. 资源教程:
 
 1. 综合类
 
@@ -173,9 +173,9 @@
     - [平安科技移动开发二队技术周报](https://github.com/PaicHyperionDev/MobileDevWeekly)
     - [360奇舞周刊](http://www.75team.com/weekly/)
 
-###六. API:
+### 六. API:
 
-####1. 总目录
+#### 1. 总目录
 
 1. 开发中心
 
@@ -200,7 +200,7 @@
     - [devdocs](http://www.devdocs.me/) 中文综合API网站
     - [overapi](http://overapi.com/) 英文综合API网站
 
-####2. jQuery
+#### 2. jQuery
 
 * [jQuery API 中文文档](http://jquery.bootcss.com/)
 * [hemin 在线版](http://hemin.cn/jq/)
@@ -209,7 +209,7 @@
 * [学习jquery](http://learn.jquery.com/)
 * [jquery 源码查找](http://james.padolsey.com/jquery/)
 
-####3. Ecmascript
+#### 3. Ecmascript
 
 - [Understanding ECMAScript 6 - Nicholas C. Zakas](https://leanpub.com/understandinges6/read)
 - [exploring-es6](https://leanpub.com/exploring-es6/read)
@@ -220,7 +220,7 @@
 - [ECMA-262，第 5 版](http://yanhaijing.com/es5/)
 - [es5](http://es5.github.io/)
 
-####4. Js template
+#### 4. Js template
 
 - [template-chooser](http://garann.github.io/template-chooser/)
 - [artTemplate](https://github.com/aui/artTemplate)
@@ -234,7 +234,7 @@
 - [etpl](http://ecomfe.github.io/etpl/)
 - [twitter-tpl](http://twitter.github.io/hogan.js/)
 
-####5. 弹出层
+#### 5. 弹出层
 
 - [artDialog 最新版](https://github.com/aui/artDialog)
 - [artDialog 文档](http://aui.github.io/artDialog/doc/index.html)
@@ -243,7 +243,7 @@
 - [响应式用户交互组件库](https://github.com/bh-lay/UI)
 - [sweetalert-有css3动画弹出层](http://t4t5.github.io/sweetalert/)
 
-####6. CSS
+#### 6. CSS
 
 - [CSS 语法参考](http://tympanus.net/codrops/css_reference/)
 - [CSS3动画手册](http://isux.tencent.com/css3/index.html)
@@ -259,7 +259,7 @@
 - [css选择器](http://www.haorooms.com/tools/css_selecter/)
 
 
-####7. Angularjs
+#### 7. Angularjs
 
 - [Angular.js 的一些学习资源](https://github.com/dolymood/AngularLearning)
 - [angularjs中文社区](http://angularjs.cn/)
@@ -292,7 +292,7 @@
 - [NG Bootstrap - Angular 2 directives specific to Bootstrap 4](https://github.com/ng-bootstrap/core)
 
 
-####8. React
+#### 8. React
 - [react海量资源](https://github.com/enaqx/awesome-react)
 - [react.js 中文论坛](http://www.react-china.org/)
 - [react.js 官方网址](https://facebook.github.io/react/index.html)
@@ -312,7 +312,7 @@
 - [React Webpack小说](https://fakefish.github.io/react-webpack-cookbook/index.html)
 - [ant.design](http://ant.design/)
 
-####9. 移动端API
+#### 9. 移动端API
 
 1. API    
     - [99移动端知识集合](https://github.com/jtyjty99999/mobileTech)
@@ -331,13 +331,13 @@
     - [特色的HTML框架可以创建精美的iOS应用](http://framework7.taobao.org/)
     - [淘宝SUI](http://m.sui.taobao.org/)
 
-####10. avalon
+#### 10. avalon
 
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
 
-####11. Requriejs
+#### 11. Requriejs
 
 - [Javascript模块化编程（一）：模块的写法 ](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 - [Javascript模块化编程（二）：AMD规范](http://www.ruanyifeng.com/blog/2012/10/asynchronous_module_definition.html)
@@ -351,20 +351,20 @@
 - [requriejs 其一 ](http://cyj.me/why-seajs/requirejs/ )
 - [require backbone结合](http://www.cnblogs.com/yexiaochai/p/3221081.html )
 
-####12. Seajs
+#### 12. Seajs
 
 - [seajs](http://seajs.org/)
 - [seajs 中文手册](http://cyj.me/why-seajs/zh/)
 - [JavaScript模块化开发库之SeaJS](http://www.cnblogs.com/snandy/archive/2012/03/30/2423612.html)
 
-####13. Less,sass
+#### 13. Less,sass
 
 - [sass](http://www.w3cplus.com/sassguide/)
 - [sass教程-sass中国](http://www.sass.hk/)
 - [Sass 中文文档](http://sass.bootcss.com/)
 - [less](http://less.bootcss.com/)
 
-####14. Markdown
+#### 14. Markdown
         
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [markdown入门参考](https://github.com/LearnShare/Learning-Markdown/blob/master/README.md)
@@ -376,7 +376,7 @@
 - [markdown-editor](https://github.com/jbt/markdown-editor)
 - [Markdown 在线编辑器](https://github.com/pandao/editor.md)
 
-####15. D3
+#### 15. D3
 
 - [d3 Tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 - [Gallery](https://github.com/mbostock/d3/wiki/Gallery)
@@ -384,7 +384,7 @@
 - [iteye](http://alanland.iteye.com/blog/1878595)
 - [ruanyifeng](http://javascript.ruanyifeng.com/library/d3.html)
 
-####16. 兼容性
+#### 16. 兼容性
 
 - [esma 兼容列表](http://kangax.github.io/compat-table/es6/)
 - [W3C CSS验证服务](http://jigsaw.w3.org/css-validator/validator.html.zh-cn)
@@ -394,7 +394,7 @@
 - [在线测兼容-移动端](http://www.responsinator.com/)
 - [emulators](https://www.manymo.com/emulators)
 
-####17. UI相关
+#### 17. UI相关
 
 - [bootcss](http://v3.bootcss.com/)
 - [MetroUICSS](http://www.w3cplus.com/MetroUICSS/)
@@ -411,11 +411,11 @@
 - [book](http://git-scm.com/book/zh)
 - [gogojimmy](http://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/)
 
-####18. HTTP
+#### 18. HTTP
 
 - [HTTP API 设计指南](http://segmentfault.com/bookmark/1230000002521721)
 
-####19. 其它API
+#### 19. 其它API
 
 - [javascript流行库汇总](javascriptoo)
 - [验证api](http://niceue.com/validator/demo/index.php)
@@ -435,7 +435,7 @@
 - [ai-to-svg](http://www.zamzar.com/convert/ai-to-svg/)
 - [localStorage 库](https://github.com/machao/localStorage)
 
-####20. 图表类
+#### 20. 图表类
 
 - [Highcharts 中文API](http://www.hcharts.cn/api/index.php)
 - [Highcharts 英文API](http://api.highcharts.com/highcharts)
@@ -445,14 +445,14 @@
 - [svg 地图](http://jvectormap.com/)
 - [jQuery Vector Map Library](http://jqvmap.com/)
 
-####21. vue
+#### 21. vue
 
 - [Vue](http://cn.vuejs.org/)
 - [Vue 论坛](http://forum.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue 的一些资源索引](http://segmentfault.com/a/1190000000411057)
 
-####21. 正则
+#### 22. 正则
 
 - [JS正则表达式元字符](http://segmentfault.com/a/1190000002471140)
 - [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -464,16 +464,16 @@
 - [haorooms正则文章](http://www.haorooms.com/search?keyword=%E6%AD%A3%E5%88%99)
 
 
-####22. ionic
+#### 23. ionic
 
 - [ionic](https://github.com/ychow/ionic-guide)
 
-####23. 其它
+#### 24. 其它
 
 - [Mock.js 是一款模拟数据生成器](http://mockjs.com/)
 - [jsdoc 注释生成 - apidocjs](http://apidocjs.com/)
 
-###七. 开发规范
+### 七. 开发规范
 
 1. 前端
     - [通过分析github代码库总结出来的工程师代码书写习惯](http://alloyteam.github.io/CodeGuide)
@@ -516,9 +516,9 @@
 
     - [Swift Style Guide](https://github.com/linkedin/swift-style-guide)
 
-###八. 其它收集
+### 八. 其它收集
 
-####1. 各大公司开源项目
+#### 1. 各大公司开源项目
 
 - Facebook
     
@@ -554,7 +554,7 @@
     - [maka](http://forum.maka.im/wordpress/)
     - [值得订阅的weekly](https://github.com/fenbility/weekly-feed)
 
-####2. Javascript
+#### 2. Javascript
 
 1. 常用    
 
@@ -582,14 +582,14 @@
     - [模拟生成JSON数据](http://beta.json-generator.com/)
     - [返回跨域JSONAPI](http://jsonp.afeld.me/)
 
-####3. Html5
+#### 3. Html5
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
 - [html5 Canvas画图系列教程目录](http://jo2.org/html5-canvas-tutorial-list/)
 
-####4. CSS
+#### 4. CSS
 - [browserhacks](http://browserhacks.com/)
 
-####5. jQuery
+#### 5. jQuery
 
 1. 焦点图
     
@@ -598,7 +598,7 @@
     - [SuperSlidev2.1 -- 大话主席](http://www.superslide2.com/)
     - [soChange](http://www.bujichong.com/sojs/soChange/index.html)
 
-####6. Ext, EasyUI, J-UI 及其它各种UI方案
+#### 6. Ext, EasyUI, J-UI 及其它各种UI方案
 
 1. Ext
 
@@ -626,7 +626,7 @@
     - [Smart UI](http://smartui.chinamzz.com/)
     - [雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids/)
 
-####7. 页面 社会化 分享功能
+#### 7. 页面 社会化 分享功能
 
 - [百度分享](http://share.baidu.com/) pc端
 - [JiaThis](http://jiathis.com/) pc端
@@ -636,7 +636,7 @@
 - [addthis](http://www.addthis.com/) 国外社交分享
 - [一键分享到各种SNS](http://overtrue.me/share.js/)
 
-####8. 富文本编辑器
+#### 8. 富文本编辑器
 
 - [百度 ueditor](http://ueditor.baidu.com/website/)
 - [经典的ckeditor](http://ckeditor.com/)
@@ -652,7 +652,7 @@
 - [Trumbowyg - 轻量编辑器](http://alex-d.github.io/Trumbowyg/)
 - [国外的一款编辑器 - tinymce](https://www.tinymce.com)
 
-####9. 日历
+#### 9. 日历
 
 1. PC
 
@@ -693,13 +693,13 @@
     - [Datejs](https://github.com/datejs/Datejs)
     - [sugarjs](http://sugarjs.com/api/Date)
 
-####10. 综合效果搜索平台
+#### 10. 综合效果搜索平台
 
 - [效果网](http://www.jq22.com)
 - [17素材](http://www.17sucai.com/)
 - [常用的JavaScript代码片段](http://microjs.com/)
 
-####11. 前端工程化
+#### 11. 前端工程化
 
 1. 概述
 
@@ -746,7 +746,7 @@
     - [webpack指南](http://webpack.toobug.net/zh-cn/index.html)
     - [webpack 教程资源收集](https://segmentfault.com/a/1190000005995267)
 
-####12. 轮播图
+#### 12. 轮播图
 
 1. pc图轮
 
@@ -781,7 +781,7 @@
     - [多种轮换图片](http://ajccom.github.io/niceslider/)
     - [滑动侧边栏](https://mango.github.io/slideout/)
 
-####13. 文件上传
+#### 13. 文件上传
 
 - [百度上传组件](http://fex-team.github.io/webuploader/)
 - [上传](https://blueimp.github.io/jQuery-File-Upload/)
@@ -792,35 +792,35 @@
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
 - [文件上传](http://fineuploader.com/)
 
-####14. 模拟select
+#### 14. 模拟select
 
 - [糖饼 select](http://aui.github.io/popupjs/doc/selectbox.html)
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - [select2](http://select2.github.io/)
 
-####15. 取色插件
+#### 15. 取色插件
 
 - [类似 Photoshop 的界面取色插件](http://www.jq22.com/plugin/367)
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
 
-####16. 城市联动
+#### 16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
 - [移动端省市三级联动demo](http://resource.haorooms.com/softshow-33-127-1.html)
 
-####17. 剪贴板
+#### 17. 剪贴板
 
 - [剪贴板](https://github.com/zeroclipboard/zeroclipboard)
 - [clipboard 最新的剪切方案](http://zenorocha.github.io/clipboard.js/)
 
-####18. 简繁转换
+#### 18. 简繁转换
 
 - [简繁转换](https://github.com/BYVoid/OpenCC)
 
-####19. 表格 Grid
+#### 19. 表格 Grid
 
 - [facebook表格](http://facebook.github.io/fixed-data-table/)
 - [类似于Excel编辑表格-handsontable](http://handsontable.com/)
@@ -828,7 +828,7 @@
 - [datatables](https://www.datatables.net/)
 - [不错的Grid](http://w2ui.com/web/demo/grid)
 
-####20. 在线演示
+#### 20. 在线演示
 
 - [js 在线编辑 - runjs](http://runjs.cn/)
 - [js 在线编辑 - jsbin](http://jsbin.com/)
@@ -841,26 +841,26 @@
 - [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
 - [mozilla 在线编辑器](https://thimble.mozilla.org)
 
-####21. 播放器
+#### 21. 播放器
 
 - [Html5 VideoPlayer](https://github.com/zmmbreeze/DeadSimpleVideoPlayer)
 
-####22. 粒子动画
+#### 22. 粒子动画
 
 - [Proton 烟花](http://a-jie.github.io/Proton/#example)
 
-####23. 表单验证
+#### 23. 表单验证
 
 - [Validform](https://github.com/haiercdboy/Validform/blob/master/README.md)
 - [formvalidator](http://formvalidator.net/)
 - [jQuery formValidator](http://www.cnblogs.com/wzmaodong/archive/2012/10/15/2724005.html)
 - [表单验证完美解决方案](http://validform.rjboy.cn/)
 
-####24. 表单美化
+#### 24. 表单美化
 
 - [美化checkbox](http://icheck.fronteed.com/)
 
-###九. Nodejs
+### 九. Nodejs
 
 - [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 - [篇幅比较少](http://rainweb.cn/article/category/Nodejs)
@@ -882,7 +882,7 @@
 - [NodeJS的代码调试和性能调优](http://www.barretlee.com/blog/2015/10/07/debug-nodejs-in-command-line/)
 - [runs Node.js programs through Chromium DevTools](https://github.com/Jam3/devtool)
 
-###十. 性能优化
+### 十. 性能优化
 
 1. 常规优化
 
@@ -951,7 +951,7 @@
     - [js性能测试](http://jsperf.com/)
     - [轻松玩转PDF](http://smallpdf.com/cn)
     
-###十一. 前端架构
+### 十一. 前端架构
 
 - [技术架构](http://www.zhihu.com/topic/19612641)
 - [前端架构](http://saito.im/note/The-Architecture-of-F2E/)
@@ -959,9 +959,9 @@
 - [关于前端架构-张克军](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html)
 - [百度腾讯offer比较（腾讯游戏VS百度基础架构）](http://www.zhihu.com/question/25583350)
 
-###十二. 个人作品
+### 十二. 个人作品
 
-####1. 推荐作品
+#### 1. 推荐作品
 
 - [winter代码片段需要翻墙](https://gist.github.com/wintercn)
 - [fgm](http://www.fgm.cc/learn/)
@@ -991,7 +991,7 @@
 - [黑白棋](http://js-game.github.io/othello/)
 - [fromone](http://yansm.github.io/fromone/index.html)
 
-####2. 群员作品
+#### 2. 群员作品
 
 - [MDialog - [合肥-M.J]](http://demo.webjyh.com/)
 - [轮播图 - [上海－冷静]](http://sandbox.runjs.cn/show/do6zlrrk )
@@ -1015,11 +1015,11 @@
 - [[上海-玄沐]- 个人网站](http://k.swao.cn/js/)
 - [[厦门-二哲]- 个人博客](http://www.meckodo.com/)
 
-####3. 国外大牛精品
+#### 3. 国外大牛精品
 
 - [pazguille](http://pazguille.me/)
 
-###十三. 简历
+### 十三. 简历
 1. 生成
 
     - [MarkDown在线简历工具](https://github.com/geekcompany/DeerResume)
@@ -1038,7 +1038,7 @@
     - [Justin Young](http://cv.youngdze.com/)
     - [各个程序员简历模板](https://github.com/geekcompany/ResumeSample)
 
-###十四. 面试题
+### 十四. 面试题
 
 - 前端
 
@@ -1069,7 +1069,7 @@
 
     - [Java工程师笔试题整理[校招篇]](https://zhuanlan.zhihu.com/p/21513402)
 
-###十五. iconfont
+### 十五. iconfont
 
 - [中文字体](http://www.zhihu.com/question/21253343)
 - [淘宝字库](http://iconfont.cn)
@@ -1080,7 +1080,7 @@
 - [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
 - [字体压缩工具](http://font-spider.org/) 感谢初级群　[深圳-小鱼] 的推荐
 
-###十六. 开发工具类
+### 十六. 开发工具类
 
 1. 前端开发工具
 
@@ -1191,7 +1191,7 @@
     - [reveal](https://github.com/hakimel/reveal.js/)
     - [slippy](https://github.com/Seldaek/slippy)
 
-###十七. 前端导航网站
+### 十七. 前端导航网站
 
 - [前端导航](http://whycss.com/)
 - [前端网址导航](http://www.daqianduan.com/nav)
@@ -1207,7 +1207,7 @@
 - [前端人俱乐部-灵感_Idea](http://f2er.club/)
 - [haorooms前端导航](http://www.haorooms.com/nav)
 
-###十八. 常用CDN
+### 十八. 常用CDN
 
 - [新浪CDN](http://lib.sinaapp.com/)
 - [百度静态资源公共库](http://cdn.code.baidu.com/)
@@ -1219,7 +1219,7 @@
 - [Google jQuery CDN](http://www.google-jquery-cdn.com/)
 - [微软CDN](http://www.asp.net/ajax/cdn)
 
-###十九. Git,SVN,Github
+### 十九. Git,SVN,Github
 
 1. Git
 
